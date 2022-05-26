@@ -9,11 +9,13 @@
 
 3. Add Celo to MetaMask using the configuration below:
 
-Network Name: Celo (Alfajores Testnet)
-New RPC URL: https://alfajores-forno.celo-testnet.org
-Chain ID: 44787
-Currency Symbol (Optional): CELO
-Block Explorer URL (Optional): https://alfajores-blockscout.celo-testnet.org
+```
+Network Name: Celo (Alfajores Testnet) 
+New RPC URL: https://alfajores-forno.celo-testnet.org 
+Chain ID: 44787 
+Currency Symbol (Optional): CELO 
+Block Explorer URL (Optional): https://alfajores-blockscout.celo-testnet.org 
+```
 
 4. Request for funds from [Celo Faucet](https://celo.org/developers/faucet)
 
